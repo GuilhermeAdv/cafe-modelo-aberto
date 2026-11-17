@@ -6,7 +6,7 @@ O CAFE tem base no Marco Legal das Startups (Lei Complementar 182/2021), no Cód
 
 ## Por que o CAFE?
 
-O Marco Legal das Startups prevê vários instrumentos de investimento. O mais usado deles, o mútuo conversível, é um contrato de dívida, e essa natureza gera insegurança para as partes e já levou muitas disputas aos tribunais.
+O Marco Legal das Startups prevê vários instrumentos de investimento. Um dos mais usados, o mútuo conversível, é um contrato de dívida, e essa natureza gera insegurança para as partes e já levou muitas disputas aos tribunais.
 
 O CAFE é uma alternativa a ele. Inspirado no SAFE norte-americano e no AFAC (adiantamento para futuro aumento de capital), o CAFE não tem natureza de dívida nem de receita da startup. O aporte é uma antecipação de recursos destinados ao capital social, que se converte em participação nos eventos previstos no contrato.
 
