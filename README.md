@@ -10,6 +10,8 @@ O Marco Legal das Startups prevê vários instrumentos de investimento. Um dos m
 
 O CAFE é uma alternativa a ele. Inspirado no SAFE norte-americano e no AFAC (adiantamento para futuro aumento de capital), o CAFE não tem natureza de dívida nem de receita da startup. O aporte é uma antecipação de recursos destinados ao capital social, que se converte em participação nos eventos previstos no contrato.
 
+A exposição de motivos do modelo está no artigo [CAFE: modelo aberto de contrato de investimento em startups](https://guilhermedeoliveira.com.br/cafe-modelo-aberto-contrato-investimento-startups/).
+
 O contrato mostra, antes da assinatura, a participação que o Investidor vai receber e a diluição de cada sócio, outro investidor e beneficiário de *vesting*. A calculadora faz essa conta e preenche o Anexo V.
 
 O texto usa linguagem simples, parágrafos curtos e destaques visuais. A ideia é que fundadores e investidores entendam o que estão assinando.
