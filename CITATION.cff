@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se usar este modelo, cite a autoria conforme abaixo."
+title: "CAFE: Contrato de Adiantamento para Futura Emissão"
+abstract: "Modelo aberto de contrato de investimento em startups, sem natureza de dívida, com base no Marco Legal das Startups, no Código Civil e na Lei da Liberdade Econômica."
+type: dataset
+authors:
+  - family-names: "de Oliveira"
+    given-names: "Guilherme"
+license: CC-BY-4.0
+version: "2026-11"
+date-released: "2026-11-16"
+keywords:
+  - "contrato de investimento em startups"
+  - "modelo aberto"
+  - "Marco Legal das Startups"
+  - "cap table"
+  - "CAFE"
