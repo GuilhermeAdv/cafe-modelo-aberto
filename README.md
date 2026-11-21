@@ -1,3 +1,5 @@
+**Português** | [English](README.en.md) | [Español](README.es.md)
+
 # CAFE: Contrato de Adiantamento para Futura Emissão
 
 Modelo aberto de contrato de investimento em startups. O aporte é irrevogável, não é dívida e se converte em participação societária nos eventos definidos no contrato.
@@ -22,9 +24,13 @@ O texto usa linguagem simples, parágrafos curtos e destaques visuais. A ideia �
 | --- | --- |
 | `CAFE_modelo_aberto.docx` | O modelo em Word, para adaptar a cada operação |
 | `CAFE_modelo_aberto.pdf` | O mesmo modelo em PDF, para leitura |
+| `CAFE_modelo_aberto_EN.docx` / `.pdf` | Tradução de referência para o inglês |
+| `CAFE_modelo_aberto_ES.docx` / `.pdf` | Tradução de referência para o espanhol |
 | `CAFE_calculadora_cap_table.xlsx` | Calculadora do *cap table* e da diluição, que preenche o Anexo V |
 | `LICENSE` | Texto da licença Creative Commons Atribuição 4.0 Internacional |
 | `CITATION.cff` | Dados para citar o modelo |
+
+**Sobre as traduções:** as versões em inglês e em espanhol são traduções de referência, para facilitar a compreensão do modelo por leitores de outros países. Prevalece a versão em português.
 
 ## Como usar
 
